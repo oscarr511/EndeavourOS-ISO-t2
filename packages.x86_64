@@ -50,7 +50,6 @@ mtools
 nfs-utils
 nilfs-utils
 ntfs-3g
-reiserfsprogs
 xfsprogs
 
 ## Boot
@@ -181,6 +180,7 @@ python-capng
 ## Live iso specific
 arch-install-scripts
 memtest86+
+memtest86+-efi
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
 pv
@@ -204,7 +204,7 @@ bluedevil
 breeze-gtk
 dolphin
 dolphin-plugins
-eos-plasma-sddm-config
+eos-breeze-sddm
 ffmpegthumbs
 fwupd
 gwenview
@@ -245,7 +245,6 @@ sddm-kcm
 spectacle
 xdg-desktop-portal-kde
 xsettingsd
-xwaylandvideobridge
 
 ## Browser
 firefox
@@ -267,7 +266,7 @@ ttf-opensans
 # ENDEAVOUROS REPO
 
 ## General
-endeavouros-theming
+endeavouros-branding
 eos-apps-info
 eos-hooks
 eos-log-tool
